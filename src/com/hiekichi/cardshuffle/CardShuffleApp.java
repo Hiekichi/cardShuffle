@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 /*
- * DevQuiz2011用に作ったような気がする。今は昔……
+ * DevQuiz2011用に作ったような気がする。使い捨てプログラムだーな。懐かしいなぁ今は昔……
  */
 public class CardShuffleApp {
 	
